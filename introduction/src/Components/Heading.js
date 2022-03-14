@@ -1,4 +1,4 @@
-
+import Text1 from "./Text.js"
 const Heading = (props) => {
   return (
     <div>
@@ -7,6 +7,7 @@ const Heading = (props) => {
   
   
   <h1>{props.text} </h1>
+  <Text1/>
  
 
 

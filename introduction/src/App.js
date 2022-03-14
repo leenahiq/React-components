@@ -11,20 +11,20 @@ const App = ( ) => {
 
 
     <div className="img">
-    <img src={austria} alt="" width ="400px" height="400"/>
+    <img src={austria} alt="Austria"/>
     <Heading text="Austria"/>
     </div>
     <div className="img">
-    <img src={croatia} alt="" width ="400px" height="400"/>
+    <img src={croatia} alt="Croatia" />
     <Heading text="Croatia"/>
     </div>
     <div className="img">
-    <img src={france} alt="" width ="400px" height="400"/>
-    <Heading text="france"/>
+    <img src={france} alt="France" />
+    <Heading text="France"/>
     </div>
     <div className="img">
-    <img src={sweden} alt="" width ="400px" height="400"/>
-    <Heading text="Sweden"/>
+    <img src={sweden} alt="Sweden"/>
+    <Heading text="Sweden" />
     </div>
   </div>
     
