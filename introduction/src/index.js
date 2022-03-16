@@ -5,8 +5,10 @@ import './index.css';
 //  import Map from "./Map"
 // import State from "./State"
 // import ShortCircuit from "./shortCircuit"
-import MapImages from "./MapImages"
-ReactDOM.render( <MapImages />,document.getElementById('root'));
+// import MapImages from "./MapImages"
+// import Common from "./Common"
+import Input from "./Input"
+ReactDOM.render( <Input />,document.getElementById('root'));
 
 
 
